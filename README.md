@@ -10,7 +10,7 @@ Jogo Guess my Number, projeto realizado durante o curso de "The Complete JavaScr
 
 ## 🔗Preview
 
-<a href=""><img src="img/Design guess my number game.jpg"></a>
+<a href="https://thaina-oliveira.github.io/Guess-my-Number/"><img src="img/Design guess my number game.jpg"></a>
 
 ## 💻Projeto
 
