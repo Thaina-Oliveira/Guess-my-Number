@@ -14,7 +14,8 @@ Jogo Guess my Number, projeto realizado durante o curso de "The Complete JavaScr
 
 ## 💻Projeto
 
-Projeto do curso "The Complete JavaScript Course 2024: From Zero to Expert!".
+Projeto do curso "The Complete JavaScript Course 2024: From Zero to Expert!". <br />
+Acesse o projeto <a href="https://thaina-oliveira.github.io/Guess-my-Number/">AQUI</a> ou na foto acima ⬆️
 
 ##  🚀Tecnologias
 
@@ -27,3 +28,5 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ##  📝License
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+
